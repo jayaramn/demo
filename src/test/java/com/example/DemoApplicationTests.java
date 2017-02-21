@@ -15,6 +15,6 @@ public class DemoApplicationTests {
 
 	@Test
 	public void testInit() {
-		System.out.println("hi");
+		System.out.println("Testing 21FEB2017");
 	}
 }
